@@ -5,6 +5,10 @@
     overflow: hidden;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 /* Navigation Bar */
 
 .navBar{
