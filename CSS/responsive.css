@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1000px){
+   .navBar{
+       flex-direction: column;
+       justify-content: space-between;
+   } 
+
+   .navList{
+       flex-direction: column;
+       justify-content: space-between;
+       width: 100vw;
+   }
+
+}
